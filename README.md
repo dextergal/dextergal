@@ -17,9 +17,6 @@ https://www.linkedin.com/in/dexter-gal-6aab93178/
 📧 Email  
 galdexter@gmail.com
 
-🐙 GitHub  
-https://github.com/dextergal
-
 ---
 
 ![](https://komarev.com/ghpvc/?username=dextergal&color=brightgreen&style=for-the-badge)
