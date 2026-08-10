@@ -8,9 +8,6 @@ I build scalable business solutions by combining custom WordPress development, e
 
 # 📫 Connect With Me
 
-🌐 Website  
-https://dextergal.online
-
 💼 LinkedIn  
 https://www.linkedin.com/in/dexter-gal-6aab93178/
 
