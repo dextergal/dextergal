@@ -122,11 +122,11 @@ Tools:
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=dextergal&show_icons=true&theme=tokyonight&hide_border=true)
+![Dexter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dextergal&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dextergal&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dextergal&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
