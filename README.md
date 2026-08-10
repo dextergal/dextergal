@@ -82,8 +82,11 @@ I specialize in building scalable digital solutions that combine **WordPress dev
 
 ---
 
-## Design
+## 🎨 Design-to-Development
 
+I work closely with UI/UX designers and convert approved designs into responsive, pixel-perfect WordPress websites.
+
+Tools:
 - Figma
 - Adobe XD
 - Photoshop
